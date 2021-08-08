@@ -4,5 +4,11 @@ Main Local wpis 02
 Main Local wpis 03
 Issue01 Wpis local 01
 Issue01 Wpis local 02
+<<<<<<< HEAD
 ----------------
 Main Local Wpis 04
+=======
+
+FeatureA
+Wpis 01
+>>>>>>> e2d8039 (FeatureA C01 - wpis 01)
