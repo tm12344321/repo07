@@ -1,3 +1,4 @@
 P7a Repo07
 Remote wpis 01
 Local wpis 02
+Issue01 Wpis local 01
